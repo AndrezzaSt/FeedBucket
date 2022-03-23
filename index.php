@@ -28,13 +28,28 @@
   
 </head>
 <body>
-    <div id="header">
-            <script src="js/import-header.js"></script>
-    </div>
+    <div id="header"></div>
+   
+        <?php 
+           require_once 'telas/header.php'; 
+        ?>
+   
 
-     <!-- ======= Hero Section ======= -->
-     <!-- ======= Featured Section ======= -->
-     <!-- ======= Footer ======= -->
+    <div id="hero"></div>
+        <?php 
+            require_once 'telas/hero.php'; 
+        ?>
+   
+   <div id="featureSection"></div>
+        <?php 
+            require_once 'telas/featureSection.php'; 
+        ?>
+
+    <div id="footer"></div>
+        <?php 
+            require_once 'telas/footer.php'; 
+        ?>
+
      <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
      <!-- Vendor JS Files -->
