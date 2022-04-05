@@ -28,24 +28,29 @@
   
 </head>
 <body>
-    <div id="header"></div>
+    
    
         <?php 
-           require_once 'telas/header.php'; 
+        session_start();
+            if (!$_SESSION["loggedIn"]) {
+                require_once 'telas/header.php'; 
+            }else{
+                require_once 'telas/header_logged.php';
+            }
         ?>
    
 
-    <div id="hero"></div>
+    
         <?php 
             require_once 'telas/hero.php'; 
         ?>
    
-   <div id="featureSection"></div>
+   
         <?php 
             require_once 'telas/featureSection.php'; 
         ?>
 
-    <div id="footer"></div>
+    
         <?php 
             require_once 'telas/footer.php'; 
         ?>

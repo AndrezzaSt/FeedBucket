@@ -65,7 +65,16 @@
           <!-- aqui preciso de uma verificação se uma pessoa está logada ou não. se ela não estiver, deve exibir um botão para cadastro. -->
           
         
-          <li><a href="telas/cadastro.php">Cadastro de conta</a></li>
+              <li class="dropdown"><a href="#"><span>Conta</span> <i class="bi bi-chevron-right"></i></a>
+                <ul>
+                  <li><a href="#">Perfil</a></li>
+                  <li><a href="#">Configurações</a></li>
+                  <li><a href="#">Chats Ativos</a></li>
+                  <li><a href="#">Ajuda</a></li>
+                </ul>
+              </li>
+            </ul>
+          </li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
