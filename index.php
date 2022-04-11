@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
   
-    <title>Projeto</title>
+    <title>FeedBucket</title>
     <meta content="" name="description">
     <meta content="" name="keywords">
   
@@ -29,18 +29,18 @@
 </head>
 <body>
     
-   
         <?php 
-        session_start();
-            if (!$_SESSION["loggedIn"]) {
+            session_start();
+            if(!$_SESSION){
+                require_once 'telas/header.php'; 
+            }
+            if (!$_SESSION == true) {
                 require_once 'telas/header.php'; 
             }else{
                 require_once 'telas/header_logged.php';
             }
         ?>
    
-
-    
         <?php 
             require_once 'telas/hero.php'; 
         ?>

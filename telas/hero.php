@@ -11,7 +11,7 @@
           <div class="carousel-item active" style="background: url(assets/img/slide/slide-1.jpg)">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Bem-vindo(a) <span> Projeto </span></h2>
+                <h2 class="animate__animated animate__fadeInDown">Bem-vindo ao <span> FeedBucket! </span></h2>
                 <p class="animate__animated animate__fadeInUp">Buscando se aprofundar no seu hobbie? .......</p>
                 <a href="" class="btn-get-started animate__animated animate__fadeInUp">Saiba como</a>
               </div>

@@ -62,7 +62,7 @@
                 <div class="error-message"></div>
                 <div class="sent-message">Seu Login foi concluído. Obrigado!</div>
               </div>
-              <div class="text-center"><button type="submit" action ="../index.php">Login</button></div>
+              <div class="text-center" ><button type="submit" action ="../index.php" name="loggedIn">Login</button></div>
             </form>
           </div>
         </div>
