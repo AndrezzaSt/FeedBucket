@@ -9,11 +9,11 @@
     <section id="contact" class="contact">
       
         <div class="center-block">
-          <div class="col-lg-6 offset-3">
+          <div class="col-lg-6">
             <form action="login_session.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group mt-3 ">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required> 
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
                 </div>
                 <div class="form-group mt-3 ">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Last Name" required>

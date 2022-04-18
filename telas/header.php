@@ -62,10 +62,8 @@
           <li><a href="about.html">Sobre</a></li>
           <li><a href="services.html">Temas</a></li>
           <li><a href="portfolio.html">Portfolios</a></li>
-          <!-- aqui preciso de uma verificação se uma pessoa está logada ou não. se ela não estiver, deve exibir um botão para cadastro. -->
-          
-        
-          <li><a href="telas/cadastro.php">Cadastro de conta</a></li>
+       
+          <li><a href="telas/cadastro-escolha.php">Cadastro de conta</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

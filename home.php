@@ -30,7 +30,7 @@
 <body>
     
        <?php
-            require_once 'telas/header.php';
+           require_once 'telas/header_logged.php';
        ?>
    
         <?php 

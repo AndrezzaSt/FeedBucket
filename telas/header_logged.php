@@ -51,7 +51,7 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1><a href="/index.php">FeeddBucket</a></h1>
+        <h1><a href="/index.php">FeedBucket</a></h1>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
       </div>
@@ -71,6 +71,7 @@
                   <li><a href="#">Configurações</a></li>
                   <li><a href="#">Chats Ativos</a></li>
                   <li><a href="#">Ajuda</a></li>
+                  <li><a href="telas/sair.php">Sair</a></li>
                 </ul>
               </li>
             </ul>
