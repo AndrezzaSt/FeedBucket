@@ -2,14 +2,28 @@
   require_once 'header.php'
 ?>
 <div class="section-title"> </div>
-    
+
+ <!-- ======= Breadcrumbs ======= -->
+ <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="../index.php">Home</a></li>
+          <li>Cadastro</li>
+        </ol>
+        <h2>Cadastro</h2>
+
+      </div>
+    </section>
+
+
 <div class="section-title">
-    <h2>Cadastro</h2>  
+    <h2>Cadastro Profissional e Usuario</h2>  
 </div>
     <section id="contact" class="contact">
       
         <div class="center-block">
-          <div class="col-lg-6">
+          <div class="col-lg-6 offset-3">
             <form action="login_session.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="form-group mt-3 ">

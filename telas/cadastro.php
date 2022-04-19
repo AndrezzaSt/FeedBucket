@@ -1,6 +1,20 @@
 <?php
   require_once 'header.php'
 ?>
+
+ <!-- ======= Breadcrumbs ======= -->
+ <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="../index.php">Home</a></li>
+          <li>Cadastro</li>
+        </ol>
+        <h2>Cadastro</h2>
+
+      </div>
+    </section>
+
 <div class="section-title"> </div>
     
 <div class="section-title">

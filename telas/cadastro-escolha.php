@@ -3,6 +3,18 @@
 
   
 ?>
+ <!-- ======= Breadcrumbs ======= -->
+ <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="../index.php">Home</a></li>
+          <li>Cadastro</li>
+        </ol>
+        <h2>Cadastro</h2>
+
+      </div>
+    </section>
 
 <div class="section-title">
     <h2>Cadastro</h2>  
@@ -11,26 +23,29 @@
     <section id="contact" class="contact">
         <div class="center-block">
           <div class="col-lg-6 offset-3">
-            <form action="cadastro-verify.php" method="post" role="form" class="php-email-form">
-              <!-- faça 3 inputs para escolha de cadastro, ponha valores neles e faça uma função para verificar que pagina ir direcionar -->
               <div class="row">
-                <div class="form-group mt-3 ">
-                  <input type="radio" name="user" id="user"> <p>Usuário</p>
-                </div>
-                <div class="form-group mt-3 ">
-                  <input type="radio" name="profissional" id="profissional"> <p>Profissional</p>
-                </div>
-                <div class="form-group mt-3 ">
-                  <input type="radio" name="profissional-user" id="profissional-user"> <p>Usuario e Profissional</p>
+                <div class="php-email-form" >
+                  <form action="cadastro.php" method="post">
+                    <div class="form-group mt-3 ">
+                      <input type="radio" name="user" id="user"> <p>Usuário</p>
+                      <div><button type="submit" action="cadastro.php"> Escolher </button></div>
+                    </div>
+                  </form>
+                  <form action="cadastro-profissional.php" method="post">
+                    <div class="form-group mt-3 ">
+                      <input type="radio" name="profissional" id="profissional"> <p>Profissional</p>
+                      <div><button type="submit" action="cadastro-profissional.php"> Escolher </button></div>
+                    </div>
+                </form>
+                <form action="cadastro-profissional-user.php" method="post">
+                  <div class="form-group mt-3 ">
+                    <input type="radio" name="profissional-user" id="profissional-user"> <p>Usuario e Profissional</p>
+                    <div><button type="submit" action="cadastro-profissional-user.php"> Escolher </button></div>
+                  </div>
+                </form>
                 </div>
               </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Você sera redirecionado para o cadastro. Obrigado!</div>
-              </div>
-              <div class="text-center"><button type="submit" action="cadastro-verify.php"> Escolher </button></div>
-            </form>
+           
 
           </div>
         </div>
