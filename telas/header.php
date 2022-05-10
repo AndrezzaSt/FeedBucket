@@ -59,9 +59,9 @@
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="active" href="index.php">Home</a></li>
-          <li><a href="about.html">Sobre</a></li>
-          <li><a href="services.html">Temas</a></li>
-          <li><a href="portfolio.html">Portfolios</a></li>
+          <li><a href="telas/Forum.php">Forum</a></li>
+          <li><a href="telas/temas.php">Temas</a></li>
+          <li><a href="telas/portfolio.php">Portfolios</a></li>
        
           <li><a href="telas/cadastro-escolha.php">Cadastro de conta</a></li>
         </ul>

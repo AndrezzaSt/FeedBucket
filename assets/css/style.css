@@ -996,6 +996,8 @@ section {
   right: 15px;
 }
 
+
+
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
@@ -1048,6 +1050,26 @@ section {
 }
 .portfolio-details .portfolio-description p {
   padding: 0;
+}
+
+.portfolio-details .portfolio-send button[type=submit] {
+  background: #e96b56;
+  border: 0;
+  border-radius: 50px;
+  padding: 10px 24px;
+  color: #fff;
+  transition: 0.4s;
+}
+.portfolio-details .portfolio-send button[type=submit]:hover {
+  background: #e6573f;
+}
+@-webkit-keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
 }
 
 /*--------------------------------------------------------------
