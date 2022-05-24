@@ -13,7 +13,7 @@
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Bem-vindo ao <span> FeedBucket! </span></h2>
                 <p class="animate__animated animate__fadeInUp">Buscando se aprofundar no seu hobbie? .......</p>
-                <a href="telas/Portfolio.php" class="btn-get-started animate__animated animate__fadeInUp">Saiba como</a>
+                <a href="telas/lista-profissionais.php" class="btn-get-started animate__animated animate__fadeInUp">Saiba como</a>
               </div>
             </div>
           </div>
@@ -24,7 +24,7 @@
               <div class="carousel-content">
                 <h2 class="animate__animated fanimate__adeInDown"> Profissionais  <span> convidados </span></h2>
                 <p class="animate__animated animate__fadeInUp">Aqui você encontra profissionais a sua disposição </p>
-                <a href="telas/Portfolio.php" class="btn-get-started animate__animated animate__fadeInUp">Saiba como</a>
+                <a href="telas/lista-profissionais.php" class="btn-get-started animate__animated animate__fadeInUp">Saiba como</a>
               </div>
             </div>
           </div>
@@ -35,7 +35,7 @@
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown"> Temas <span> que você encontra aqui</span></h2>
                 <p class="animate__animated animate__fadeInUp">Tudo que você possa melhorar aqui mesmo :D</p>
-                <a href="telas/Portfolios.php" class="btn-get-started animate__animated animate__fadeInUp">Saiba mais</a>
+                <a href="telas/lista-profissionais.php" class="btn-get-started animate__animated animate__fadeInUp">Saiba mais</a>
               </div>
             </div>
           </div>

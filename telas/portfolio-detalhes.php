@@ -7,9 +7,9 @@
 
         <ol>
           <li><a href="index.html">Home</a></li>
-          <li>Portfolio Details</li>
+          <li>Projeto</li>
         </ol>
-        <h2>Portfolio Details</h2>
+        <h2>Perfil de profissional</h2>
 
       </div>
     </section><!-- End Breadcrumbs -->
@@ -60,9 +60,11 @@
                   Gostou do perfil? solicite seu feedback:
               </p>
             </div>
-            <div class="portfolio-send">
-                <div class="text-center"> <button type="submit" action ="../form-de-feedback.php">Solicitar</button></div>
-            </div>
+            <form action="form-de-feedback.php" method="post" role="form" class="php-email-form">
+              <div class="portfolio-send">
+                  <div class="text-center"> <button type="submit" action ="telas/form-de-feedback.php">Solicitar</button></div>
+              </div>
+            </form>
             </div>
           </div>
 

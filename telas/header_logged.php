@@ -61,7 +61,7 @@
           <li><a class="active" href="../index.php">Home</a></li>
           <li><a href="Forum.php">Forum</a></li>
           <li><a href="temas.php">Temas</a></li>
-          <li><a href="portfolio.php">Portfolios</a></li>
+          <li><a href="lista-profissionais.php">Portfolios</a></li>
           <!-- aqui preciso de uma verificação se uma pessoa está logada ou não. se ela não estiver, deve exibir um botão para cadastro. -->
           
         

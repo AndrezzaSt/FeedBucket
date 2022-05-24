@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Feedbucket - Andrezza Sturm</title>
+  <title>Feedbucket</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -58,12 +58,12 @@
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a class="active" href="index.php">Home</a></li>
+          <li><a class="active" href="../index.php">Home</a></li>
           <li><a href="telas/Forum.php">Forum</a></li>
           <li><a href="telas/temas.php">Temas</a></li>
           <li><a href="telas/portfolio.php">Portfolios</a></li>
        
-          <li><a href="telas/cadastro-escolha.php">Cadastro de conta</a></li>
+          <li><a href="cadastro-escolha.php">Cadastro de conta</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
