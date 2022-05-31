@@ -63,7 +63,7 @@
           <li><a href="telas/temas.php">Temas</a></li>
           <li><a href="telas/portfolio.php">Portfolios</a></li>
        
-          <li><a href="cadastro-escolha.php">Cadastro de conta</a></li>
+          <li><a href="telas/cadastro-escolha.php">Cadastro de conta</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->

@@ -26,7 +26,7 @@
           <div class="col-lg-4">
             <div class="icon-box">
               <i class="bi bi-card-checklist"></i>
-              <h3><a href="">Encontre a sua area</a></h3>
+              <h3><a href="temas.php">Encontre a sua area</a></h3>
               <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
             </div>
           </div>

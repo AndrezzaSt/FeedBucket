@@ -68,6 +68,7 @@
               <li class="dropdown"><a href="#"><span>Conta</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Perfil</a></li>
+                  <li><a href="Pedido.php">Pedidos ativos</a></li>
                   <li><a href="#">Configurações</a></li>
                   <li><a href="#">Chats Ativos</a></li>
                   <li><a href="#">Ajuda</a></li>

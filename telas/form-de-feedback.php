@@ -1,5 +1,5 @@
 <?php
-  require_once 'header.php'
+  require_once 'header_logged.php'
 ?>
 
 <!-- ======= Breadcrumbs ======= -->
@@ -42,7 +42,7 @@
         <div class="row">
 
           <div class="col-lg-6 offset-3">
-            <form action="telas/form-de-feedback-2.php" method="post" role="form" class="php-email-form">
+            <form action="form-de-feedback-2.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
