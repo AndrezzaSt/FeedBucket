@@ -7,7 +7,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.php">Home</a></li>
+          <li><a href="../index.php">Home</a></li>
           <li>Portfolio</li>
         </ol>
         <h2>Lista dos nossos profissionais:</h2>
