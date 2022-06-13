@@ -2,6 +2,22 @@
   require_once 'header_logged.php'
 ?>
 
+<div class="section-title"> </div>
+
+ <!-- ======= Breadcrumbs ======= -->
+ <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <ol>
+          <li><a href="../home.php">Home</a></li>
+          <li>Temas</li>
+        </ol>
+        <h2>Temas</h2>
+
+      </div>
+    </section>
+
+
  <!-- PARTE DOS TEMAS-->
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">

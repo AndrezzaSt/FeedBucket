@@ -7,7 +7,7 @@
           <div class="container">
 
             <ol>
-              <li><a href="index.php">Home</a></li>
+              <li><a href="../home.php">Home</a></li>
               <li>Formulario de feedback</li>
             </ol>
             <h2>Feedback enviado!</h2>

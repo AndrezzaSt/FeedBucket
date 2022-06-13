@@ -1,13 +1,4 @@
-/**
-* Template Name: Eterna - v4.7.0
-* Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -1900,3 +1891,27 @@ section {
   font-size: 13px;
   color: #fff;
 }
+
+.wrapper {
+  width: 611px;
+  height: 400px;
+  margin: 80px auto 0;
+}
+  .container {
+    float: right;
+    width: 600px;
+    height: 400px;
+    background-color: white;
+    border-radius: 10px;
+  }
+    .part {
+      float: left;
+      height: 100%;
+    }
+      .card-details {
+        padding: 48px 40px 0;
+        width: 60%;
+      }
+    
+   
+

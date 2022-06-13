@@ -7,7 +7,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.php">Home</a></li>
+          <li><a href="../home.php">Home</a></li>
           <li>Formulario de Feedback</li>
         </ol>
         <h2>Solicitação de Feedback:</h2>
@@ -37,12 +37,20 @@
             </div>
           </div>
 
+          <div class="col-lg-3 col-md-6">
+            <div class="info-box  mb-4">
+            <i class='bx bx-money'></i>
+              <h3>Custo:</h3>
+              <p>$20</p>
+            </div>
+          </div>
+
         </div>
 
         <div class="row">
 
           <div class="col-lg-6 offset-3">
-            <form action="form-de-feedback-2.php" method="post" role="form" class="php-email-form">
+            <form action="form-de-feedback-pagamento.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
