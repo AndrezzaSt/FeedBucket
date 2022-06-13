@@ -15,7 +15,7 @@
                   <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
                 </ul>
               </div>
-    
+    <!-- 
               <div class="col-lg-3 col-md-6 footer-links">
                 <h4>Our Services</h4>
                 <ul>
@@ -25,7 +25,7 @@
                   <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
                   <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
                 </ul>
-              </div>
+              </div> -->
 
         <!-- Vendor JS Files -->
   <script src="assets/vendor/purecounter/purecounter.js"></script>
